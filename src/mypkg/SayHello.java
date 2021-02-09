@@ -36,6 +36,9 @@ public class SayHello
         System.out.println("Hey everybody! My name is Matthew Maynard.");
         counter++;
 
+        System.out.println("Hello! My name is Joshua Scott.");
+        counter++;
+
         System.out.println("\nHola! My name is Yadimar Torres.");
         System.out.println("I love to do crafts and watching shows.\n");
         counter++;
@@ -63,9 +66,29 @@ public class SayHello
         System.out.println("Hello! Amanda Jaroszewicz Checking in!\n");
         counter++;
 
+        System.out.println("Hello everyone, this is Ashwin Srivastava!\n");
+        counter++;
+        
+        System.out.println("Hey there, Miles Limehouse reporting for duty!\n");
+        counter++;
+        
+        
+        System.out.println("Hi class, My name is Alex Crawford");
+        counter++;
+        
+        System.out.println("Hello class! My name is Amanda Camelio.");
+        counter++;
 
+        System.out.println("Hi all, my name's Jennifer Dominguez. Yay Bucs!!\n");
+        counter++;
 
-        System.out.println( "Number of students who edited this file: "
+        System.out.println("\nHello people! My name is Michael Hauser.");
+        counter++;
+
+        System.out.println(" Hello! This is Nilser Gonzalez gitting it done! :) \n");
+        counter++;
+
+        System.out.println( "\nNumber of students who edited this file: "
             + counter );
     }
 }
