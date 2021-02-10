@@ -105,6 +105,9 @@ public class SayHello
         System.out.println("I love playing and watching sports!\n");
         counter++;
 
+        System.out.println("\nBoop hia, my name is Josh Moranville.");
+        counter++;
+
         System.out.println( "\nNumber of students who edited this file: "
             + counter );
         
